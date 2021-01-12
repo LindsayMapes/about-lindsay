@@ -1,0 +1,14 @@
+h1 {
+    color: rebeccapurple;
+}
+
+.center {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+input, label, text area {
+    display: block;
+    margin-top: .3em;
+}
